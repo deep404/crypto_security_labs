@@ -2,7 +2,7 @@
 ## Author: *Moglan Mihai*
 ------
 ## Main tasks :
-__1. Import the manually downloaded policies from a predefined trusted location;
+__1. Import the manually downloaded policies from a predefined trusted location;__
 
 __2. Parse and understand the format of data within the imported policy;__
 
