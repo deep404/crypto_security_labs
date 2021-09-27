@@ -17,7 +17,7 @@ __1. The GUI very much looks like Notepad GUI's. There is the white field for te
 
 __2. First menu is 'File Menu' with following commands (now works the 'New', 'Open', 'Save As', 'Export' and 'Exit'):;__
 
-  * Save to JSON (parse the audic file and saves all the custom types data in a JSON file);
+  * Export (parse the audic file and saves all the custom types data in a JSON file);
   * New (creates a new blank working field);
   * Open (open a file from the PC);
   * Save As (save the current content with a new name on PC) - unenabled;
