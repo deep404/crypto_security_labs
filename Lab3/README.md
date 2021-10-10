@@ -37,6 +37,6 @@ __6. Under the 'File' menu, there is the 'Search' field. The user indicate the w
 
 __7. In order to run the app change the location of audit files in the code and run the .py code in any CLI with python support;__
 
-__8. In the 'Lab3' folder there is an example of input -> 'audit.json' and output after running the 'Run Audit' option -> 'audit_result.txt'. Also, I uploaded the .audit for the Ubuntu 16.04, so you can try on your Ubuntu 16.04 OS; __
+__8. In the 'Lab3' folder there is an example of input -> 'audit.json' and output after running the 'Run Audit' option -> 'audit_result.txt'. Also, I uploaded the .audit for the Ubuntu 16.04, so you can try on your Ubuntu 16.04 OS;__
 
 __9. You can use the video like a tutorial how to use the application;__
