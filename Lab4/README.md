@@ -17,7 +17,7 @@ This and further labaratory works will be done in Python. For first and second o
 ## A little description :
 __1. The GUI very much looks like Notepad GUI's. There is the white field for text and one menu up;__
 
-__2. First menu is 'File Menu' with following commands (now works the 'New', 'Open', 'Save', 'Save As', 'Export', 'Run Audit' and 'Exit'):;__
+__2. First menu is 'File Menu' with following commands (now works the 'New', 'Open', 'Save', 'Save As', 'Export', 'Run Audit', 'Enforce Audit', 'Rollback' and 'Exit'):;__
 
   * Export (parse the audit file and the user select the custom items he wants and export the custom items again in a new audit file);
   * New (creates a new blank working field);
@@ -25,6 +25,8 @@ __2. First menu is 'File Menu' with following commands (now works the 'New', 'Op
   * Save (the user select the custom items he wants, using checkbox, and save the custom items in a json file)
   * Save As (the same as Save option, but the custom items are saved in a new json file) ;
   * Run Audit (after the json file with options is opened, 'run audit' option runs all the containers and make a report if the user OS satisfies the selected audit options)
+  * Enforce Audit (after the 'Run Audit' option is run it creates automatically a json with all the failed settings. The user selects what settings he/she wants to enforce)
+  * Rollback (rollback all enforced settings in 'Enforce Audit'. This operation is done automatically, without actions from the user)
   * Exit (close the app);
 
 __3. The audit file is parsed charchater by character using for loop;__
@@ -37,7 +39,7 @@ __6. Under the 'File' menu, there is the 'Search' field. The user indicate the w
 
 __7. In order to run the app change the location of audit files in the code and run the .py code in any CLI with python support;__
 
-__8. In the 'Lab3' folder there is an example of input -> 'audit.json' and output after running the 'Run Audit' option -> 'audit_result.txt'. Also, I uploaded the .audit for the Ubuntu 16.04, so you can try on your Ubuntu 16.04 OS;__
+__8. I uploaded the .audit for the Ubuntu 16.04, so you can try on your Ubuntu 16.04 OS;__
 
 __9. You can use the video like a tutorial how to use the application;__
 
