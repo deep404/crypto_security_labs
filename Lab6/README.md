@@ -1,4 +1,4 @@
-# Topic: *Enforcing a Policy (cont'd)*
+# Topic: *SSO Security*
 ## Author: *Moglan Mihai*
 ------
 ## Main tasks :
