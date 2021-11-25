@@ -8,3 +8,6 @@ __2. Create an application which would display the data contained in the databas
 
 __3. Make sure that the sensitive data can only be accessed via application (i.e. it is secture);__
 
+## Introduction :
+All laboratory works are done in Python. The GUI of the application is done using tkinter, but MongoDB manipulation via pymongo and bson for encryption. My working OS is Windows 10.
+
